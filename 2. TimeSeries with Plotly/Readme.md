@@ -1,3 +1,3 @@
-<h1 align='center'>Time Series plot using PLotly
+<h1 align='center'>Time Series plot using Plotly
 
 ![](plot.png)
