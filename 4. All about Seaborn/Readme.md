@@ -13,3 +13,7 @@
 - Cluster Heatmap
 - Pairplot
 - Jointplot
+
+<span style="display:block;text-align:center">![](histplot.jpeg)</span>
+
+<span style="display:block;text-align:center">![](pairplot.jpeg)</span>
