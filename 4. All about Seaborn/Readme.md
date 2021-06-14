@@ -20,6 +20,6 @@
 
 
 <p align="center" width="100%">
-    <img width="33%" src="histplot.jpeg"><img width="33%" src="hist.jpeg"><img width="33%" height="225" src="pairplot.jpeg">
+    <img width="33%" src="histplot.jpeg"><img width="33%" src="hist.jpeg"><img width="33%" height="223" src="pairplot.jpeg">
 </p>
 <hr>
