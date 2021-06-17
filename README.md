@@ -5,3 +5,4 @@
 - [Interactive Map using Folium](https://github.com/TrentinoS/Visualization/tree/main/3.%20Interactive%20Map%20with%20Folium)
 - [All about Seaborn](https://github.com/TrentinoS/Visualization/tree/main/4.%20All%20about%20Seaborn)
 - [Earthquake Visualization on Interactive Globe using Plotly](https://github.com/TrentinoS/Visualization/tree/main/5.%20Interactive%20Globe%20using%20Plotly)
+- [Professional Scatter Plot Using Plotly]()
