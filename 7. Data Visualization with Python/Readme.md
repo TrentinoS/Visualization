@@ -25,4 +25,11 @@
 
 ![](Graphs/doughnut.jpg)
 
+<br>
+
+![](Graphs/wordcloud.png)
+
+
 <hr>
+
+
