@@ -29,7 +29,7 @@ plt.xlabel('Years',color = 'black')
 plt.ylabel('Number of Immigrants',color = 'black')
 plt.xticks(color = 'black')
 plt.yticks(color = 'black')
-plt.savefig('line_single.jpeg')
+plt.savefig('line_single.jpg')
 plt.show()
 
 ##Multiple Lines
@@ -45,7 +45,7 @@ plt.yticks(color = 'black')
 plt.title('Immigration to Canada from 1980-2013',color = 'black')
 plt.xlabel('Year',color = 'black')
 plt.ylabel('Number of Immigrants',color = 'black')
-plt.savefig('line_multiple.png')
+plt.savefig('line_multiple.jpg')
 plt.show()
 
 ##Cyberpunk Line Chart
@@ -62,7 +62,7 @@ plt.yticks(color = 'white', fontsize = 14, fontweight = 'bold')
 plt.title('Immigration to Canada from 1980-2013',color = 'white', fontsize = 20, fontweight = 'bold')
 plt.xlabel('Year',color = 'white', fontsize = 16, fontweight = 'bold')
 plt.ylabel('Number of Immigrants',color = 'white',fontsize = 16, fontweight = 'bold')
-plt.savefig('cyber_line.jpeg')
+plt.savefig('cyber_line.jpg')
 
 plt.show()
 
@@ -79,7 +79,7 @@ plt.xticks(color = 'black')
 plt.yticks(color = 'black')
 plt.xlabel('Year',color = 'black')
 plt.ylabel('Number of Immigrants',color = 'black')
-plt.savefig('bar_vertical.png')
+plt.savefig('bar_vertical.jpg')
 plt.show()
 
 ##Grouped
@@ -95,7 +95,7 @@ plt.yticks(color = 'black')
 plt.xlabel('Year',color = 'black')
 plt.ylabel('Number of Immigrants',color = 'black')
 plt.legend(title = 'Country', fontsize = 12)
-plt.savefig('bar_grouped.png')
+plt.savefig('bar_grouped.jpg')
 plt.show()
 
 ##Horizontal
@@ -109,7 +109,7 @@ plt.xlabel('Number of Immigrants',color = 'black')
 plt.ylabel('Country',color = 'black')
 plt.xticks(color = 'black')
 plt.yticks(color = 'black')
-plt.savefig('bar_horizontal.png')
+plt.savefig('bar_horizontal.jpg')
 plt.show()
 
 #Histogram
@@ -124,7 +124,7 @@ plt.xlabel('Sepal Width', color = 'black')
 plt.ylabel('Frequency', color = 'black')
 plt.xticks(color = 'black')
 plt.yticks(color = 'black')
-plt.savefig('histogram.png')
+plt.savefig('histogram.jpg')
 plt.show()
 
 
@@ -143,7 +143,7 @@ plt.yticks(fontsize = 14, color = 'white',fontweight = 'bold')
 plt.xticks(fontsize = 14, rotation = 90, color = 'white',fontweight = 'bold')
 plt.xlabel('Year', fontsize = 16, color = 'white',fontweight = 'bold')
 plt.ylabel('Number of Immigrants', fontsize = 16, color = 'white',fontweight = 'bold')
-plt.savefig('cyber_area_simple.png')
+plt.savefig('cyber_area_simple.jpg')
 
 plt.show()
 
@@ -158,7 +158,7 @@ plt.yticks(fontsize = 12, color = 'black')
 plt.xticks(fontsize = 12, rotation = 90, color = 'black')
 plt.xlabel('Year', fontsize = 14, color = 'black')
 plt.ylabel('Number of Immigrants', fontsize = 14, color = 'black')
-plt.savefig('area_simple.png')
+plt.savefig('area_simple.jpg')
 plt.show()
 
 ##Stacked
@@ -175,7 +175,7 @@ plt.xlabel('Year',color = 'black')
 plt.ylabel('Number of Immigrants',color = 'black')
 plt.xticks(color = 'black')
 plt.yticks(color = 'black')
-plt.savefig('area_stacked.png')
+plt.savefig('area_stacked.jpg')
 plt.show()
 
 ##Unstacked
@@ -189,7 +189,7 @@ plt.ylabel('Number of Immigrants',color = 'black')
 plt.legend(fontsize = 12)
 plt.xticks(color = 'black')
 plt.yticks(color = 'black')
-plt.savefig('area_unstacked.png')
+plt.savefig('area_unstacked.jpg')
 plt.show()
 
 #Box-Plot
@@ -202,7 +202,7 @@ fig10 = df_box.plot(kind = 'box')
 plt.title('Top 5 Immigrant Countries to Canada from 1980-2013', color = 'black')
 plt.xlabel('Country', color = 'black')
 plt.ylabel('Number of Immigrants', color = 'black')
-plt.savefig('box_horizontal.png')
+plt.savefig('box_horizontal.jpg')
 plt.show()
 
 ##Vertical
@@ -213,7 +213,7 @@ fig11 = df_box.plot(kind = 'box', vert = False)
 plt.title('Top 5 Immigrant Countries to Canada from 1980-2013', color = 'black')
 plt.ylabel('Country', color = 'black')
 plt.xlabel('Number of Immigrants', color = 'black')
-plt.savefig('box_vertical.png')
+plt.savefig('box_vertical.jpg')
 plt.show()
 
 #Scatter Plot
@@ -229,7 +229,7 @@ plt.xticks(color = 'black', rotation = 90)
 plt.yticks(color = 'black')
 plt.xlabel('Year',color = 'black')
 plt.ylabel('Number of Immigrants',color = 'black')
-plt.savefig('scatter_simple.png')
+plt.savefig('scatter_simple.jpg')
 plt.show()
 
 ##Multiple
@@ -246,7 +246,7 @@ plt.xlabel('Year', color = 'black')
 plt.ylabel('Number of Immigrants', color = 'black')
 plt.xticks(color = 'black', rotation = 90)
 plt.yticks(color = 'black')
-plt.savefig('scatter_multiple.png')
+plt.savefig('scatter_multiple.jpg')
 plt.show()
 
 #Bubble Plot
@@ -258,22 +258,22 @@ y = np.random.rand(1,30,1)
 size = np.random.rand(1,30,1)
 fig14 = plt.scatter(x,y,s = size*4000, alpha = 0.4, color = 'r', edgecolor = 'Red', linewidth = 4)
 plt.title('Bubble Plot Sample', color = 'black')
-plt.savefig('bubble.png')
+plt.savefig('bubble.jpg')
 plt.show()
 
 
 #Pie Chart
-style.use('ggplot')
-plt.rcParams['figure.figsize'] = (15,10)
 
 df_pie = pd.DataFrame(df.groupby('continent')['total'].sum().T)
 colors = ['gold', 'yellowgreen', 'lightcoral', 'lightskyblue', 'lightgreen', 'pink']
 explode = [0,0.1,0,0,0.1,0.1]
+style.use('ggplot')
+plt.rcParams['figure.figsize'] = (15,10)
 fig15 = plt.pie(df_pie['total'], colors = colors, autopct = '%1.1f%%', startangle = 90, explode = explode, pctdistance = 1.12, shadow = True)
 plt.title('Continent-Wise Immigrants Distribution', color = 'black', y = 1.1, fontsize = 18)
 plt.legend(df_pie.index, loc = 'upper left', fontsize = 12)
 plt.axis('equal')
-plt.savefig('pie.png')
+plt.savefig('pie.jpg')
 plt.show()
 
 #Regression Plot
@@ -292,7 +292,7 @@ plt.xlabel('Year', color = 'black')
 plt.ylabel('Number of Immigrants', color = 'black')
 plt.xticks(color = 'black')
 plt.yticks(color = 'black')
-plt.savefig('reg_strong.png')
+plt.savefig('reg_strong.jpg')
 plt.show()
 
 ##Weak Trend
@@ -309,16 +309,16 @@ plt.xticks(color = 'black')
 plt.yticks(color = 'black')
 plt.xlabel('Year', color = 'black')
 plt.ylabel('Number of Immigrants', color = 'black')
-plt.savefig('reg_weak.png')
+plt.savefig('reg_weak.jpg')
 plt.show()
 
 
 #Doughnut Chart
-style.use('ggplot')
-plt.rcParams['figure.figsize'] = (15,10)
 
 top5_list = df.nlargest(5, 'total').index.tolist()
 df_top5 = pd.DataFrame(df.loc[top5_list, 'total'].T)
+style.use('ggplot')
+plt.rcParams['figure.figsize'] = (15,10)
 circle = plt.Circle( (0,0), 0.7, color='white')
 colors = ['gold', 'yellowgreen', 'lightcoral', 'lightskyblue', 'lightgreen', 'pink']
 plt.pie(df_top5['total'], autopct = '%1.1f%%', shadow = True, explode = [0.1,0,0,0,0], colors = colors, startangle = 90)
@@ -327,18 +327,32 @@ fig20.gca().add_artist(circle)
 plt.legend(df_top5.index, fontsize = 12, loc = 'upper left')
 plt.title('Top 5 Immigrant Country Distribution', color = 'black', fontsize = 18)
 plt.axis('equal')
-plt.savefig('doughnut.png')
+plt.savefig('doughnut.jpg')
 plt.show()
 
 #Lollipop Chart
 style.use('ggplot')
 plt.rcParams['figure.figsize'] = (15,10)
-
 fig19 = plt.stem(df_tot.index, df_tot['total'])
 plt.title('Total Immigrants to Canada from 1980-2013', color = 'black')
 plt.xlabel('Year', color = 'black')
 plt.ylabel('Number of Immigrants', color = 'black')
 plt.xticks(color = 'black')
 plt.yticks(color = 'black')
-plt.savefig('lollipop.png')
+plt.savefig('lollipop.jpg')
+plt.show()
+
+
+# word cloud
+
+from wordcloud import WordCloud, STOPWORDS
+
+text = open('sample.txt', 'r', encoding = 'utf-8').read()
+stopwords = set(STOPWORDS)
+wordcloud = WordCloud(background_color = 'white', max_words = 200, stopwords = stopwords)
+
+wordcloud.generate(text)
+plt.imshow(wordcloud, interpolation = 'bilinear')
+plt.axis('off')
+
 plt.show()
