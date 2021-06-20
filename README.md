@@ -7,4 +7,4 @@
 - [Earthquake Visualization on Interactive Globe using Plotly](https://github.com/TrentinoS/Visualization/tree/main/5.%20Interactive%20Globe%20using%20Plotly)
 - [Professional Scatter Plot Using Plotly](https://github.com/TrentinoS/Visualization/tree/main/6.%20Professional%20Scatter%20plot%20using%20Plotly)
 - [Data Visualization in Python](https://github.com/TrentinoS/Visualization/tree/main/7.%20Data%20Visualization%20with%20Python)
-- [Visualizations with Plotly]()
+- [Visualizations with Plotly](https://github.com/TrentinoS/Visualization/tree/main/8.%20Visualizations%20with%20Plotly)
