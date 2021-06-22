@@ -9,4 +9,4 @@
 - [Data Visualization in Python](https://github.com/TrentinoS/Visualization/tree/main/7.%20Data%20Visualization%20with%20Python)
 - [Visualizations with Plotly](https://github.com/TrentinoS/Visualization/tree/main/8.%20Visualizations%20with%20Plotly)
 - [Mapping with GeoPandas](https://github.com/TrentinoS/Visualization/tree/main/9.%20Mapping%20with%20Geopandas)
-- [Seaborn FacetGrid]()
+- [Seaborn FacetGrid](https://github.com/TrentinoS/Visualization/tree/main/10.%20Seaborn%20FacetGrid)
