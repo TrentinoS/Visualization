@@ -11,3 +11,4 @@
 - [Mapping with GeoPandas](https://github.com/TrentinoS/Visualization/tree/main/9.%20Mapping%20with%20Geopandas)
 - [Seaborn FacetGrid](https://github.com/TrentinoS/Visualization/tree/main/10.%20Seaborn%20FacetGrid)
 - [Princilples of Plotly](https://github.com/TrentinoS/Visualization/tree/main/11.%20Principles%20of%20Plotly)
+- [Distribution plots with Seaborn](https://github.com/TrentinoS/Visualization/tree/main/12.%20Distribution%20Plots%20with%20Seaborn)
