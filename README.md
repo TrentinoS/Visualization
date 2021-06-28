@@ -12,3 +12,4 @@
 - [Seaborn FacetGrid](https://github.com/TrentinoS/Visualization/tree/main/10.%20Seaborn%20FacetGrid)
 - [Princilples of Plotly](https://github.com/TrentinoS/Visualization/tree/main/11.%20Principles%20of%20Plotly)
 - [Distribution plots with Seaborn](https://github.com/TrentinoS/Visualization/tree/main/12.%20Distribution%20Plots%20with%20Seaborn)
+- [Seaborn Function for All Visualization](https://github.com/TrentinoS/Visualization/tree/main/13.%20Seaborn%20Function%20for%20All%20Visualization)
