@@ -18,5 +18,5 @@
 <hr>
 
 
-<img src="treemap1.svg">
+
 
