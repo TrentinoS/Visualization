@@ -1,4 +1,5 @@
 <i><h1 align = 'center'>Visualizations</h1></i>
+<hr>
 
 - [Time Series Heatmap](https://github.com/TrentinoS/Visualization/tree/main/1.%20Timeseries%20Heatmap)
 - [Time Series using Plotly](https://github.com/TrentinoS/Visualization/tree/main/2.%20TimeSeries%20with%20Plotly)
@@ -13,3 +14,6 @@
 - [Princilples of Plotly](https://github.com/TrentinoS/Visualization/tree/main/11.%20Principles%20of%20Plotly)
 - [Distribution plots with Seaborn](https://github.com/TrentinoS/Visualization/tree/main/12.%20Distribution%20Plots%20with%20Seaborn)
 - [Seaborn Function for All Visualization](https://github.com/TrentinoS/Visualization/tree/main/13.%20Seaborn%20Function%20for%20All%20Visualization)
+- [Mastering Matplotlib](https://github.com/TrentinoS/Visualization/tree/main/14.%20Mastering%20Matplotlib)
+
+<hr>
