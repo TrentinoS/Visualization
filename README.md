@@ -15,5 +15,6 @@
 - [Distribution plots with Seaborn](https://github.com/TrentinoS/Visualization/tree/main/12.%20Distribution%20Plots%20with%20Seaborn)
 - [Seaborn Function for All Visualization](https://github.com/TrentinoS/Visualization/tree/main/13.%20Seaborn%20Function%20for%20All%20Visualization)
 - [Mastering Matplotlib](https://github.com/TrentinoS/Visualization/tree/main/14.%20Mastering%20Matplotlib)
+- [Interactive Plots with PyGal](https://github.com/TrentinoS/Visualization/tree/main/15.%20Interactive%20Plot%20with%20Pygal)
 
 <hr>
