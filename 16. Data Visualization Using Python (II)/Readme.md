@@ -1,9 +1,9 @@
 <i><h1 align='center'>Data Visualization Using Python (II)</h1></i>
 <hr>
 
-<img src="Plots/plot11.jpg")
-     
-![](Plots/plot11.jpg)
+<img src='Plots/plot11.jpg' height=400 width=720>
+<br>
+
 ![](Plots/plot7.jpg)
 ![](Plots/plot12.jpg)
 ![](Plots/plot13.jpg)
