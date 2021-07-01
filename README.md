@@ -16,5 +16,6 @@
 - [Seaborn Function for All Visualization](https://github.com/TrentinoS/Visualization/tree/main/13.%20Seaborn%20Function%20for%20All%20Visualization)
 - [Mastering Matplotlib](https://github.com/TrentinoS/Visualization/tree/main/14.%20Mastering%20Matplotlib)
 - [Interactive Plots with PyGal](https://github.com/TrentinoS/Visualization/tree/main/15.%20Interactive%20Plot%20with%20Pygal)
+- [Data Visualization with Python (II)](https://github.com/TrentinoS/Visualization/tree/main/16.%20Data%20Visualization%20Using%20Python%20(II))
 
 <hr>
