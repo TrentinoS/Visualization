@@ -17,5 +17,6 @@
 - [Mastering Matplotlib](https://github.com/TrentinoS/Visualization/tree/main/14.%20Mastering%20Matplotlib)
 - [Interactive Plots with PyGal](https://github.com/TrentinoS/Visualization/tree/main/15.%20Interactive%20Plot%20with%20Pygal)
 - [Data Visualization with Python (II)](https://github.com/TrentinoS/Visualization/tree/main/16.%20Data%20Visualization%20Using%20Python%20(II))
+- [Advanced Data Visualization in Python with Holoviews](https://github.com/TrentinoS/Visualization/tree/main/17.%20Advanced%20Data%20Visualization%20in%20Python%20with%20HoloViews)
 
 <hr>
