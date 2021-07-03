@@ -2,4 +2,5 @@
 <hr>
 <br>
 
-![](Plots/Angola matplot.jpg)
+<img src="Plots/Angola matplot.jpg"><img src="Plots/Angola seaborn.jpg"><img src="Plots/Angola plotly.jpg" width = 1000>
+<hr>
