@@ -19,5 +19,6 @@
 - [Data Visualization with Python (II)](https://github.com/TrentinoS/Visualization/tree/main/16.%20Data%20Visualization%20Using%20Python%20(II))
 - [Advanced Data Visualization in Python with Holoviews](https://github.com/TrentinoS/Visualization/tree/main/17.%20Advanced%20Data%20Visualization%20in%20Python%20with%20HoloViews)
 - [Line charts in Machine Learning](https://github.com/TrentinoS/Visualization/tree/main/18.%20Line%20Chart%20in%20Machine%20Learning)
+- [Map Projection in Python](https://github.com/TrentinoS/Visualization/tree/main/19.%20Map%20Projection%20in%20Python)
 
 <hr>
