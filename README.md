@@ -20,6 +20,7 @@
 - [Advanced Data Visualization in Python with Holoviews](https://github.com/TrentinoS/Visualization/tree/main/17.%20Advanced%20Data%20Visualization%20in%20Python%20with%20HoloViews)
 - [Line charts in Machine Learning](https://github.com/TrentinoS/Visualization/tree/main/18.%20Line%20Chart%20in%20Machine%20Learning)
 - [Map Projection in Python](https://github.com/TrentinoS/Visualization/tree/main/19.%20Map%20Projection%20in%20Python)
+- [Style yout Data Analysis](https://github.com/TrentinoS/Visualization/tree/main/20.%20Style%20your%20Data%20Analysis)
 - [Time-Lapse Heat Maps with Folium](https://github.com/TrentinoS/Visualization/tree/main/21.%20Time-Lapse%20Heat%20Maps%20with%20folium)
 
 
