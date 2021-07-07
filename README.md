@@ -22,6 +22,6 @@
 - [Map Projection in Python](https://github.com/TrentinoS/Visualization/tree/main/19.%20Map%20Projection%20in%20Python)
 - [Style yout Data Analysis](https://github.com/TrentinoS/Visualization/tree/main/20.%20Style%20your%20Data%20Analysis)
 - [Time-Lapse Heat Maps with Folium](https://github.com/TrentinoS/Visualization/tree/main/21.%20Time-Lapse%20Heat%20Maps%20with%20folium)
-
+- [Business Intelligence Visualizations with Python](https://github.com/TrentinoS/Visualization/tree/main/22.%20Business%20Intelligence%20Visualizations%20with%20Python)
 
 <hr>
