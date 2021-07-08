@@ -23,5 +23,6 @@
 - [Style yout Data Analysis](https://github.com/TrentinoS/Visualization/tree/main/20.%20Style%20your%20Data%20Analysis)
 - [Time-Lapse Heat Maps with Folium](https://github.com/TrentinoS/Visualization/tree/main/21.%20Time-Lapse%20Heat%20Maps%20with%20folium)
 - [Business Intelligence Visualizations with Python](https://github.com/TrentinoS/Visualization/tree/main/22.%20Business%20Intelligence%20Visualizations%20with%20Python)
+- [Matplotlib Visualization](https://github.com/TrentinoS/Visualization/tree/main/23.%20Matplotlib%20Visualization)
 
 <hr>
