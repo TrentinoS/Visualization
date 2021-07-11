@@ -1,2 +1,4 @@
 <i><h1 align='center'>Visualizaion Advanced in Matplotlib</h1></i>
 <hr>
+
+<img src='Visualizatons Advanced Plots/1_plot.jpg'>
