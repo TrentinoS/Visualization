@@ -12,6 +12,7 @@
 - [Line charts in Machine Learning](https://github.com/TrentinoS/Visualization/tree/main/18.%20Line%20Chart%20in%20Machine%20Learning)
 - [Style yout Data Analysis](https://github.com/TrentinoS/Visualization/tree/main/20.%20Style%20your%20Data%20Analysis)
 - [Business Intelligence Visualizations with Python](https://github.com/TrentinoS/Visualization/tree/main/22.%20Business%20Intelligence%20Visualizations%20with%20Python)
+- [Interactive Plots with Matplotlib](https://github.com/TrentinoS/Visualization/tree/main/26.%20Interactive%20Plots%20with%20Matpltolib)
 <hr>
 
 <h2>Seaborn</h1>
