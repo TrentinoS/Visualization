@@ -42,6 +42,7 @@
 - [Interactive Map using Folium](https://github.com/TrentinoS/Visualization/tree/main/3.%20Interactive%20Map%20with%20Folium)
 - [Time-Lapse Heat Maps with Folium](https://github.com/TrentinoS/Visualization/tree/main/21.%20Time-Lapse%20Heat%20Maps%20with%20folium)
 - [Time-Lapse Heatmap of NYC Cab Pickup Location using Folium](https://github.com/TrentinoS/Visualization/tree/main/27.%20Time-Lapsed%20Heatmap%20of%20NYC%20Cab%20Pickup%20Locations%20using%20Folium)
+- [Visualizing Air Pollution with Folium](https://github.com/TrentinoS/Visualization/tree/main/28.%20Visualizing%20Air%20Pollution%20with%20Folium)
 <hr>
 
 <h2>GeoPandas</h1>
