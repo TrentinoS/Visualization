@@ -34,6 +34,7 @@
 - [Princilples of Plotly](https://github.com/TrentinoS/Visualization/tree/main/11.%20Principles%20of%20Plotly)
 - [Clean Style for Plotly](https://github.com/TrentinoS/Visualization/tree/main/24.%20Clean%20Style%20for%20Plotly)
 - [Plotly vs. Matplotlib](https://github.com/TrentinoS/Visualization/tree/main/25.%20Plotly%20vs.%20Matplotlib)
+- [Extraordinary Data Visualisation](https://github.com/TrentinoS/Visualization/tree/main/29.%20Extraordinary%20Data%20Visualisation)
 <hr>
 
 <h2>Folium</h1>
