@@ -18,6 +18,7 @@
 <h2>Seaborn</h1>
 <br>
 
+- [Relplots with Seaborn](https://github.com/TrentinoS/Visualization/tree/main/30.%20Relplot%20with%20Seaborn)
 - [All about Seaborn](https://github.com/TrentinoS/Visualization/tree/main/4.%20All%20about%20Seaborn)
 - [Seaborn FacetGrid](https://github.com/TrentinoS/Visualization/tree/main/10.%20Seaborn%20FacetGrid)
 - [Distribution plots with Seaborn](https://github.com/TrentinoS/Visualization/tree/main/12.%20Distribution%20Plots%20with%20Seaborn)
