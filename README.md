@@ -14,6 +14,7 @@
 - [Business Intelligence Visualizations with Python](https://github.com/TrentinoS/Visualization/tree/main/22.%20Business%20Intelligence%20Visualizations%20with%20Python)
 - [Interactive Plots with Matplotlib](https://github.com/TrentinoS/Visualization/tree/main/26.%20Interactive%20Plots%20with%20Matpltolib)
 - [Visualization to Speed-up EDA](https://github.com/TrentinoS/Visualization/tree/main/31.%20Visualizations%20to%20Speed%20Up%20Exploratory%20Data%20Analysis)
+- [Guide to Beautiful Visualizations](https://github.com/TrentinoS/Visualization/tree/main/33.%20Guide%20to%20Beautiful%20Visualizations)
 <hr>
 
 <h2>Seaborn</h1>
