@@ -39,6 +39,7 @@
 - [Plotly vs. Matplotlib](https://github.com/TrentinoS/Visualization/tree/main/25.%20Plotly%20vs.%20Matplotlib)
 - [Extraordinary Data Visualisation](https://github.com/TrentinoS/Visualization/tree/main/29.%20Extraordinary%20Data%20Visualisation)
 - [Visualizations to level-up your Data Story](https://github.com/TrentinoS/Visualization/tree/main/32.%20Visualisations%20to%20Level%20Up%20Your%20Data%20Story)
+- [Visualising Covid-19 Vaccination Data](https://github.com/TrentinoS/Visualization/tree/main/34.%20Visualizing%20Covid-19%20Vaccination%20Data)
 <hr>
 
 <h2>Folium</h1>
