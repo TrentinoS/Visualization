@@ -56,6 +56,7 @@
 
 - [Mapping with GeoPandas](https://github.com/TrentinoS/Visualization/tree/main/9.%20Mapping%20with%20Geopandas)
 - [Map Projection in Python](https://github.com/TrentinoS/Visualization/tree/main/19.%20Map%20Projection%20in%20Python)
+- [Map Projections with Different Packages](https://github.com/TrentinoS/Visualization/tree/main/35.%20Map%20Visualizations)
 <hr>
 
 <h2>Holoviews</h1>
