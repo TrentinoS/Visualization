@@ -25,6 +25,7 @@
 - [Seaborn FacetGrid](https://github.com/TrentinoS/Visualization/tree/main/10.%20Seaborn%20FacetGrid)
 - [Distribution plots with Seaborn](https://github.com/TrentinoS/Visualization/tree/main/12.%20Distribution%20Plots%20with%20Seaborn)
 - [Seaborn Function for All Visualization](https://github.com/TrentinoS/Visualization/tree/main/13.%20Seaborn%20Function%20for%20All%20Visualization)
+- [Data Visualization with Seaborn in Depth](https://github.com/TrentinoS/Visualization/tree/main/37.%20Data%20Visualization%20with%20Seaborn%20in%20Depth)
 <hr>
 
 <h2>Plotly</h1>
